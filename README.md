@@ -4,6 +4,8 @@
 
 Receipt Processor is a web service that processes receipts and calculates points based on predefined rules. The service provides two endpoints: one for submitting a receipt for processing and another for retrieving the points awarded for a specific receipt.
 
+The application is bulit using python and flask, this repository includes the required setup to run the application, Kindly follow the below steps to run app.py
+
 ## How to Run the Application
 
 ### Prerequisites
